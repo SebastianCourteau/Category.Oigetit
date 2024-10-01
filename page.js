@@ -46,18 +46,9 @@ module.exports = {
        travelBurger: '//*[@id="traveltextside"]',
        lifeBurger: '//*[@id="traveltextside"]',
        breakingBurger: '//*[@id="breakingtextside"]',
-
-
-
        //Open Cat DropDowns
-       ddArrow: '//*[@id="dropdown1"]',
-
+       ddArrow: '#dropdown1',
        //Hamburger Menu
-       hamBurger: '//*[@id="scrollMenu"]/div/div/button'
+       hamBurger: '//*[@id="scrollMenu"]/div/div/button',
 
-        //inputFields
-
-            //Modals
-
-                //Functions
 }

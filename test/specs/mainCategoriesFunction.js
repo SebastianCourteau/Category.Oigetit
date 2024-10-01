@@ -1,4 +1,3 @@
-
 const page = require('../../page')
 
 describe('When a category is selected user is brought to respective category', () => {
